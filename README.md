@@ -39,5 +39,5 @@ A regular expression used to filter paths. For example "mp4$" would only upload 
 Build Docker image by running the following from the repository root.
 
 ```bash
-docker build -t willdady/go-watch-s3:latest .
+docker build -t willdady/go-watch-s3:latest ./
 ```
